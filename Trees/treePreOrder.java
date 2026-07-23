@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {
+class treePreOrder {
     public static class Node{
         int data;
         Node left;
